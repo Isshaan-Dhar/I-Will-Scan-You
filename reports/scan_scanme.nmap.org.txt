@@ -1,0 +1,15 @@
+Vultron Scan Report - scanme.nmap.org
+==============================
+PORT 22: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+Protocol mismatch.
+Result: No known vulnerabilities found in local DB.
+
+PORT 80: HTTP/1.1 200 OK
+Date: Fri, 06 Mar 2026 21:53:52 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+Result: No known vulnerabilities found in local DB.
+
