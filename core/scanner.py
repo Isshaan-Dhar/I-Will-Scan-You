@@ -27,4 +27,5 @@ class MultiThreadedScanner:
             t = threading.Thread(target=self.worker, daemon=True)
             t.start()
         self.queue.join()
+
         return sorted(self.open_ports)
